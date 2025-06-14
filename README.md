@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning how to code
 - 🏳️‍🌈 Pronouns: She/Them
 - ⚡ Fun fact: i'm only 11
-- 🖥️ I can code in HTML, and Lego Spike Prime (basiclly Scrach but for Lego robots)
+- 🖥️ I can code in HTML, Scratch (where I'm known as CcnCode) and Lego Spike Prime (basiclly Scrach but for Lego robots)
 
 <!---
 ccnsumme/ccnsumme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
