@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ccn Gaming (aka @ccnsumme)
 - 🌱 I’m currently learning how to code
 - 🏳️‍🌈 Pronouns: She/Them
-- ⚡ Fun fact: i'm only 11
+- ⚡ Fun fact: I'm only 11
 - 🖥️ I can code in HTML, Scratch (where I'm known as CcnCode) and Lego Spike Prime (basiclly Scrach but for Lego robots)
 
 <!---
